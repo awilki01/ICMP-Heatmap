@@ -1,5 +1,5 @@
 # ICMP-Heatmap
-Create ICMP Heatmap
+## Create ICMP Heatmap
 
 The Python file 'create_plot.py' creates an ICMP heatmap plot by logging into each device in the 'device_list.yml' file and sending
 pings to all the other devices in the file. It creates a PNG image file and CSV file of the data. The CSV file can be imported into other tools e.g. Microsoft Excel to display data.
@@ -15,6 +15,6 @@ The script is set to run on IOS-XE based devices, but it can be easily modified 
 Please first test on non-production devices prior to using in production. Use at your own risk.
 
 
-## Example PNG output
+### Example PNG output
 
 ![alt text](output.png "Heatmap")
