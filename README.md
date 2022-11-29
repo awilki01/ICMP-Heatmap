@@ -13,3 +13,8 @@ The current username/password for the devices is set to cisco/cisco within the '
 The script is set to run on IOS-XE based devices, but it can be easily modified to run on any platform that the NAPALM library supports.
 
 Please first test on non-production devices prior to using in production. Use at your own risk.
+
+
+## Example PNG output
+
+![alt text](output.png "Heatmap")
