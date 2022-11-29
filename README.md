@@ -14,6 +14,8 @@ The script is set to run on IOS-XE based devices, but it can be easily modified 
 
 Please first test on non-production devices prior to using in production. Use at your own risk.
 
+'create_plot.py' imports many other libraries - see import section in code for required libraries.
+
 
 ### Example PNG output
 
